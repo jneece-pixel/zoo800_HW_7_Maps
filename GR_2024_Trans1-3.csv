@@ -1,0 +1,10 @@
+﻿Type,Number,Label,Date,Investigators,Positioning,NAD83Lat,NAD83Long,Easting,Northing,Position,Device,Reprojected
+Trans,1,T1,2024_07_19,All,Upslope,,,527046,4731273,0,Garmin,N
+Trans,1,T1,2024_07_19,All,Upslope,,,527072,4731230,50,Garmin,N
+Trans,1,T1,2024_07_19,All,Upslope,,,527053,4731173,100,Garmin,N
+Trans,2,T2,2024_07_19,All,Upslope,,,527326,4731795,0,Garmin,N
+Trans,2,T2,2024_07_19,All,Upslope,,,527312,4731755,50,Garmin,N
+Trans,2,T2,2024_07_19,All,Upslope,,,527301,4731712,100,Garmin,N
+Trans,3,T3,2024_07_19,All,Upslope,,,527420,4731754,0,Garmin,N
+Trans,3,T3,2024_07_19,All,Upslope,,,527420,4731712,50,Garmin,N
+Trans,3,T3,2024_07_19,All,Upslope,,,527408,4731671,100,Garmin,N
